@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Matrices xmlns="https://soap.api.nav.gov.hu/definitions/model/2.0/altalanosEnumRuleValidity/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          version="1.1.0"
+          xsi:schemaLocation="https://soap.api.nav.gov.hu/definitions/model/2.0/altalanosEnumRuleValidity/1.0.0">
+   <Matrix matrixId="altalanos_adonemkod">
+      <Row>
+         <Col/>
+         <Col>101</Col>
+         <Col>Társasági adó</Col>
+         <Col>10032000-01076019</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>103</Col>
+         <Col>Személyi jövedelemadó</Col>
+         <Col>10032000-06056353</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>104</Col>
+         <Col>Általános forgalmi adó</Col>
+         <Col>10032000-01076868</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>119</Col>
+         <Col>Rehabilitációs hozzájárulás</Col>
+         <Col>10032000-06056281</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>124</Col>
+         <Col>Egészségbiztosítási Alapot megillető bevételek</Col>
+         <Col>10032000-06056229</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>125</Col>
+         <Col>Nyugdíjbiztosítási Alapot megillető bevételek</Col>
+         <Col>10032000-06056236</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>138</Col>
+         <Col>Késedelmi pótlék</Col>
+         <Col>10032000-01076985</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>146</Col>
+         <Col>Játékadó</Col>
+         <Col>10032000-01076992</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>149</Col>
+         <Col>Munkáltatói táppénz hozzájárulás</Col>
+         <Col>10032000-06056243</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>151</Col>
+         <Col>Szociálpolitikai menetdíj-támogatás</Col>
+         <Col>10032000-01905070</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>152</Col>
+         <Col>Egészségügyi hozzájárulás</Col>
+         <Col>10032000-06056212</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>168</Col>
+         <Col>Állami kezességbeváltás megtérülése</Col>
+         <Col>10032000-01907003</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>182</Col>
+         <Col>Szakképzési hozzájárulás</Col>
+         <Col>10032000-06056061</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>184</Col>
+         <Col>Innovációs járulék</Col>
+         <Col>10032000-06056322</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>187</Col>
+         <Col>Korkedvezmény-biztosítási járulék</Col>
+         <Col>10032000-06056432</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>188</Col>
+         <Col>Egészségbiztosítási és munkaerőpiaci járulék</Col>
+         <Col>10032000-06057749</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>190</Col>
+         <Col>Kifizetőt terhelő ekho</Col>
+         <Col>10032000-06056360</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>191</Col>
+         <Col>Magánszemélyt terhelő ekho</Col>
+         <Col>10032000-06056377</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>193</Col>
+         <Col>Nyugdíjas vagy járulékfizetési felsőhatár túllépés esetén fizetendő ekho</Col>
+         <Col>10032000-06056391</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>194</Col>
+         <Col>Ekho különadó</Col>
+         <Col>10032000-06056401</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>197</Col>
+         <Col>EGT államban biztosított személytől levont ekho</Col>
+         <Col>10032000-06056425</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>200</Col>
+         <Col>Biztosítási adó</Col>
+         <Col>10032000-01076318</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>202</Col>
+         <Col>Hitelintézeti járadék</Col>
+         <Col>10032000-01076136</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>211</Col>
+         <Col>Egyéb kötelezettségek</Col>
+         <Col>10032000-01076277</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>214</Col>
+         <Col>Átlagadó</Col>
+         <Col>10032000-01070037</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>215</Col>
+         <Col>Bírság, mulasztási bírság és önellenőrzéssel kapcsolatos befizetések</Col>
+         <Col>10032000-01076301</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>218</Col>
+         <Col>Baleseti adó</Col>
+         <Col>10032000-06055936</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>219</Col>
+         <Col>Adókártya kiadáshoz kapcsolódó igazgatási szolgáltatási díj</Col>
+         <Col>10032000-01079074</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>221</Col>
+         <Col>Eljárási illeték</Col>
+         <Col>10032000-01076064</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>222</Col>
+         <Col>Gépjármű vagyonszerzési illeték</Col>
+         <Col>10032000-06057684</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>232</Col>
+         <Col>Energia ágazat befizetései</Col>
+         <Col>10032000-01076150</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>234</Col>
+         <Col>2010. évtől érvényes gyógyszertár szolidaritási díj</Col>
+         <Col>10032000-06057794</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>239</Col>
+         <Col>Egyszerűsített foglalkoztatásból eredő szociális hozzájárulási adó</Col>
+         <Col>10032000-06057763</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>241</Col>
+         <Col>Cégautóadó</Col>
+         <Col>10032000-01076167</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>243</Col>
+         <Col>Gyógyszerforgalmazók gyógyszertárban forgalmazott, közfinanszírozott gyógyszerek utáni befizetései</Col>
+         <Col>10032000-06057608</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>244</Col>
+         <Col>Gyógyszer-nagykereskedők gyógyszertárak részére értékesített, közfinanszírozott gyógyszerek utáni befizetései</Col>
+         <Col>10032000-06057615</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>246</Col>
+         <Col>Gyógyszer ismertetés utáni befizetések</Col>
+         <Col>10032000-06057639</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>247</Col>
+         <Col>Gyógyászati segédeszköz ismertetés utáni befizetések</Col>
+         <Col>10032000-06057646</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>248</Col>
+         <Col>Gyógyszertámogatás-többlet sávos kockázatviseléséből eredő befizetések</Col>
+         <Col>10032000-06057653</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>258</Col>
+         <Col>Szociális hozzájárulási adó</Col>
+         <Col>10032000-06055912</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>259</Col>
+         <Col>Kulturális adó</Col>
+         <Col>10032000-06055929</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>283</Col>
+         <Col>Gyógyszerforgalmazók gyógyszertárban forgalmazott közfinanszírozott gyógyszerek utáni kiegészítő befizetései</Col>
+         <Col>10032000-06057811</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>288</Col>
+         <Col>Kisadózó vállalkozások adója</Col>
+         <Col>10032000-01076349</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>289</Col>
+         <Col>Kisvállalati adó</Col>
+         <Col>10032000-01076356</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>290</Col>
+         <Col>Levont személyi jövedelemadó</Col>
+         <Col>10032000-06055950</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>291</Col>
+         <Col>Levont, megfizetett Nyugdíjbiztosítási Alapot megillető bevételek</Col>
+         <Col>10032000-06055974</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>293</Col>
+         <Col>Levont egészségbiztosítási és munkaerő-piaci járulék</Col>
+         <Col>10032000-06055981</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>295</Col>
+         <Col>Tűzvédelmi hozzájárulás</Col>
+         <Col>10032000-01076325</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>296</Col>
+         <Col>Közművezeték adó</Col>
+         <Col>10032000-01076363</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>300</Col>
+         <Col>Reklámadó</Col>
+         <Col>10032000-01079081</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>301</Col>
+         <Col>Jogosulatlanul igénybevett lakásépítési kedvezmény és pótléka</Col>
+         <Col>10032000-01070020</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>303</Col>
+         <Col>Külföldi vállalkozásnál biztosítási kötelezettséggel járó jogviszonyban foglalkoztatott utáni járulék</Col>
+         <Col>10032000-06056456</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>305</Col>
+         <Col>Magánszemélyek jogviszony megszűnéséhez kapcsolódó egyes jövedelmeinek különadója</Col>
+         <Col>10032000-01076222</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>310</Col>
+         <Col>Turizmusfejlesztési hozzájárulás</Col>
+         <Col>10032000-01079122</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>312</Col>
+         <Col>Elektronikus bírósági eljárási illeték</Col>
+         <Col>10032000-01070051</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>313</Col>
+         <Col>Forgalmazó és befektetési alap különadója</Col>
+         <Col>10032000-01076291</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>314</Col>
+         <Col>Pénzügyi tranzakciós illeték, értékpapír tranzakciós illeték és kiegészítő pénzügyi tranzakciós illeték</Col>
+         <Col>10032000-01076332</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>316</Col>
+         <Col>Pénzügyi szervezetek különadója</Col>
+         <Col>10032000-01076239</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>339</Col>
+         <Col>Környezetterhelési díj</Col>
+         <Col>10032000-01076040</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>345</Col>
+         <Col>Távközlési adó</Col>
+         <Col>10032000-01077010</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>352</Col>
+         <Col>Egyedi támogatás</Col>
+         <Col>10032000-01905049</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>356</Col>
+         <Col>Egyéb vállalati támogatás</Col>
+         <Col>10032000-01905135</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>368</Col>
+         <Col>Állami kezességbeváltás</Col>
+         <Col>10032000-01907027</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>406</Col>
+         <Col>Társadalombiztosítási járulék magánszemélyt, őstermelőt, egyéni vállalkozót, kifizetőt terhelő kötelezettség</Col>
+         <Col>10032000-06055802</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>407</Col>
+         <Col>Biztosítottaktól levont társadalombiztosítási járulék</Col>
+         <Col>10032000-06055819</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>408</Col>
+         <Col>Egészségügyi szolgáltatási járulék</Col>
+         <Col>10032000-06055826</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>410</Col>
+         <Col>Belföldi gépjárműadó</Col>
+         <Col>10032000-01079160</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>413</Col>
+         <Col>Kiskereskedelmi adó</Col>
+         <Col>10032000-01076370</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>414</Col>
+         <Col>EKAER szám lezárását követő bejelentés módosítási pótlék</Col>
+         <Col>10032000-01037492</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>415</Col>
+         <Col>EKAER bejelentési kötelezettség nem előírásszerű teljesítése miatt kiszabott mulasztási bírság</Col>
+         <Col>10032000-01037485</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>416</Col>
+         <Col>Bevándorlási különadó</Col>
+         <Col>10032000-01079139</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>418</Col>
+         <Col>Bírósági határozatban megállapított eljárási illeték</Col>
+         <Col>10032000-01070044-09060018</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>419</Col>
+         <Col>Gyógyszergyártók különadója és extraprofitadója</Col>
+         <Col>10032000-01076277-09060025</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>420</Col>
+         <Col>NAV Szén-dioxid kvóta adó bevételi számla</Col>
+         <Col>10032000-01076277-09060032</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>421</Col>
+         <Col>Élelmiszerlánc felügyeleti díj</Col>
+         <Col>10032000-01076040-09060018</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>422</Col>
+         <Col>Globális minimum-adószintet biztosító kiegészítő adó</Col>
+         <Col>10032000-01076019-09060018</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>423</Col>
+         <Col>Energiaellátók különadója</Col>
+         <Col>10032000-01076150-09050019</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>481</Col>
+         <Col>Légitársaságok hozzájárulása</Col>
+         <Col>10032000-01076277-09060018</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>488</Col>
+         <Col>Kifizető által kisadózó vállalkozásnak juttatott bevétel utáni adó</Col>
+         <Col>10032000-01076387</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>521</Col>
+         <Col>Illetékek bevételi számla</Col>
+         <Col>10032000-01070044</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>599</Col>
+         <Col>Végrehajtói manuális elszámolású letéti számla</Col>
+         <Col>10032000-01601295</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>703</Col>
+         <Col>Civil kedvezményezetti SZJA 1% felajánlás</Col>
+         <Col>10032000-01850035</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>901</Col>
+         <Col>Vámbevételi számla</Col>
+         <Col>10032000-01037519</Col>
+      </Row>
+      <Row>
+         <Col>T</Col>
+         <Col>902</Col>
+         <Col>Importtermék általános forgalmi adó</Col>
+         <Col>10032000-01037203</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>909</Col>
+         <Col>Hulladékgazdálkodással kapcsolatos jogosulatlan támogatás visszafizetése</Col>
+         <Col>10032000-01037296</Col>
+      </Row>
+      <Row>
+         <Col>T</Col>
+         <Col>910</Col>
+         <Col>Uniós vámbevételek</Col>
+         <Col>10032000-01820203</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>911</Col>
+         <Col>Külföldi gépjárműadó</Col>
+         <Col>10032000-01037234</Col>
+      </Row>
+      <Row>
+         <Col>T</Col>
+         <Col>912</Col>
+         <Col>Vámletét letéti számla</Col>
+         <Col>10032000-01501418</Col>
+      </Row>
+      <Row>
+         <Col>T</Col>
+         <Col>914</Col>
+         <Col>Regisztrációs adó</Col>
+         <Col>10032000-01037399</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>916</Col>
+         <Col>Külföldi rendszámú járművek adóbírság</Col>
+         <Col>10032000-01037416</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>918</Col>
+         <Col>Szabálysértési pénzbírság, költség és rendbírság</Col>
+         <Col>10032000-01036501</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>920</Col>
+         <Col>Környezetvédelmi termékdíj adó</Col>
+         <Col>10032000-01037454</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>922</Col>
+         <Col>Értékesítési bevétel</Col>
+         <Col>10032000-01036714</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>923</Col>
+         <Col>Népegészségügyi termékadó</Col>
+         <Col>10032000-01077003</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>924</Col>
+         <Col>Gazdálkodó szervezetek által befizetett termékdíj visszaigénylés</Col>
+         <Col>10032000-01850695</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>941</Col>
+         <Col>Üzemanyag energiatermékek jövedéki adója</Col>
+         <Col>10032000-01037306</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>942</Col>
+         <Col>Egyéb termékek jövedéki adója</Col>
+         <Col>10032000-01037313</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>944</Col>
+         <Col>Bérfőzési szeszadó</Col>
+         <Col>10032000-01037320</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>945</Col>
+         <Col>Jövedéki letétek</Col>
+         <Col>10032000-01501401</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>946</Col>
+         <Col>Dohánygyártmány jövedéki adó</Col>
+         <Col>10032000-01037344</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>947</Col>
+         <Col>Dohánygyártmány ÁFA</Col>
+         <Col>10032000-01037351</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>950</Col>
+         <Col>Villamos energia, földgáz, szén energiatermékek jövedéki adója</Col>
+         <Col>10032000-01037375</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>953</Col>
+         <Col>Fémkereskedelmi bírság</Col>
+         <Col>10032000-01037461</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>954</Col>
+         <Col>Fémkereskedelmi letétek</Col>
+         <Col>10032000-01501449</Col>
+      </Row>
+      <Row>
+         <Col>T</Col>
+         <Col>956</Col>
+         <Col>Import jövedéki és energia adó</Col>
+         <Col>10032000-01037612</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>957</Col>
+         <Col>Közigazgatási bírság</Col>
+         <Col>10032000-01037629</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>959</Col>
+         <Col>Pénzmosás elleni bírság</Col>
+         <Col>10032000-01037595</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>963</Col>
+         <Col>OLAF ellenőrzéssel kapcsolatos közigazgatási bírság</Col>
+         <Col>10032000-01037629-09050019</Col>
+      </Row>
+      <Row>
+         <Col/>
+         <Col>999</Col>
+         <Col>Vám- és adóbírság, kamat</Col>
+         <Col>10032000-01037241</Col>
+      </Row>
+   </Matrix>
+</Matrices>

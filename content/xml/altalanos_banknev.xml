@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Matrices xmlns="https://soap.api.nav.gov.hu/definitions/model/2.0/altalanosEnumRuleValidity/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          version="1.1.0"
+          xsi:schemaLocation="https://soap.api.nav.gov.hu/definitions/model/2.0/altalanosEnumRuleValidity/1.0.0">
+   <Matrix matrixId="altalanos_banknev">
+      <Row>
+         <Col>100</Col>
+         <Col>Magyar Államkincstár</Col>
+      </Row>
+      <Row>
+         <Col>101</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>102</Col>
+         <Col>K&amp;H Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>103</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>104</Col>
+         <Col>K&amp;H Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>107</Col>
+         <Col>CIB Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>108</Col>
+         <Col>Citibank Europe Plc.</Col>
+      </Row>
+      <Row>
+         <Col>109</Col>
+         <Col>UniCredit Bank Hungary Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>111</Col>
+         <Col>CIB Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>115</Col>
+         <Col>MBH Befektetési Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>116</Col>
+         <Col>Erste Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>117</Col>
+         <Col>OTP Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>118</Col>
+         <Col>iCARD AD</Col>
+      </Row>
+      <Row>
+         <Col>119</Col>
+         <Col>Erste Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>120</Col>
+         <Col>Raiffeisen Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>121</Col>
+         <Col>Gránit Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>125</Col>
+         <Col>Erste Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>126</Col>
+         <Col>TransferWise Europe SA</Col>
+      </Row>
+      <Row>
+         <Col>128</Col>
+         <Col>Merkantil Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>131</Col>
+         <Col>BNP-Paribas</Col>
+      </Row>
+      <Row>
+         <Col>135</Col>
+         <Col>KDB Bank Európa Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>137</Col>
+         <Col>ING Bank N.V.</Col>
+      </Row>
+      <Row>
+         <Col>142</Col>
+         <Col>Erste Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>144</Col>
+         <Col>KELER Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>146</Col>
+         <Col>MFB Magyar Fejlesztési Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>148</Col>
+         <Col>Eximbank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>151</Col>
+         <Col>Paystrax UAB</Col>
+      </Row>
+      <Row>
+         <Col>162</Col>
+         <Col>MagNet Magyar Közösségi Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>163</Col>
+         <Col>Deutsche Bank AG</Col>
+      </Row>
+      <Row>
+         <Col>167</Col>
+         <Col>Magyar Cetelem Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>168</Col>
+         <Col>MBH Jelzálogbank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>170</Col>
+         <Col>OTP Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>171</Col>
+         <Col>UniCredit Jelzálogbank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>175</Col>
+         <Col>Bank of China (CEE) Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>176</Col>
+         <Col>MagNet Bank</Col>
+      </Row>
+      <Row>
+         <Col>178</Col>
+         <Col>BNP Paribas Magyarországi Fióktelepe</Col>
+      </Row>
+      <Row>
+         <Col>181</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>182</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>183</Col>
+         <Col>BNP-Paribas</Col>
+      </Row>
+      <Row>
+         <Col>184</Col>
+         <Col>Oberbank AG</Col>
+      </Row>
+      <Row>
+         <Col>187</Col>
+         <Col>Banco Primus</Col>
+      </Row>
+      <Row>
+         <Col>190</Col>
+         <Col>Magyar Nemzeti Bank</Col>
+      </Row>
+      <Row>
+         <Col>194</Col>
+         <Col>Saltpay IIB hf</Col>
+      </Row>
+      <Row>
+         <Col>196</Col>
+         <Col>CLS Bank International</Col>
+      </Row>
+      <Row>
+         <Col>197</Col>
+         <Col>Bank of China Limited</Col>
+      </Row>
+      <Row>
+         <Col>200</Col>
+         <Col>OTP Pénztárszolgáltató Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>222</Col>
+         <Col>O.F.SZ. Zrt</Col>
+      </Row>
+      <Row>
+         <Col>296</Col>
+         <Col>Libra Internet Bank S.A.</Col>
+      </Row>
+      <Row>
+         <Col>297</Col>
+         <Col>Első Fedezetkezelő Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>298</Col>
+         <Col>Banking Circle S.A.</Col>
+      </Row>
+      <Row>
+         <Col>500</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>501</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>503</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>504</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>507</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>508</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>510</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>511</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>512</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>514</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>515</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>517</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>519</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>520</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>523</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>525</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>526</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>528</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>531</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>532</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>533</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>535</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>536</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>537</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>539</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>540</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>542</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>543</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>545</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>546</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>551</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>554</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>556</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>558</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>568</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>569</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>571</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>572</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>574</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>576</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>577</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>578</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>581</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>586</Col>
+         <Col>DUNA Takarék Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>589</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>590</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>591</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>592</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>593</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>595</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>596</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>598</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>599</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>603</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>606</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>612</Col>
+         <Col>Polgári Bank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>614</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>616</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>619</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>620</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>621</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>623</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>626</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>627</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>628</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>629</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>632</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>633</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>636</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>638</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>640</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>644</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>647</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>648</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>651</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>652</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>655</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>657</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>659</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>660</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>669</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>670</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>676</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>678</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>679</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>680</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>682</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>685</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>687</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>688</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>693</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>694</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>695</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>698</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>701</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>703</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>704</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>705</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>706</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>709</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>718</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>719</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>721</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>726</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>727</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>728</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>729</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>732</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>736</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>739</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>740</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>745</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>750</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>755</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>757</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>803</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>806</Col>
+         <Col>MBH Bank Nyrt.</Col>
+      </Row>
+      <Row>
+         <Col>880</Col>
+         <Col>Fundamenta-Lakáskassza Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>881</Col>
+         <Col>OTP Lakástakarékpénztár Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>882</Col>
+         <Col>Fundamenta-Lakáskassza Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>883</Col>
+         <Col>Fundamenta-Lakáskassza Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>884</Col>
+         <Col>OTP Jelzálogbank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>888</Col>
+         <Col>K&amp;H Jelzálogbank Zrt.</Col>
+      </Row>
+      <Row>
+         <Col>903</Col>
+         <Col>Postai Elszámoló Központ</Col>
+      </Row>
+   </Matrix>
+</Matrices>
